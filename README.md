@@ -1,97 +1,110 @@
-# MIHAN - My First HTML Project
+# MIHAN — My First Project
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+> Where it all started. My very first web project, built with plain HTML and CSS while learning the absolute basics — and also my first assignment from Vidance.
+
+![status](https://img.shields.io/badge/status-completed-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue) ![html5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+🔗 [Live Demo](https://er4nxz.github.io/MIHAN__-my-first-project-/)
+
+**English** | [فارسی](#فارسی)
 
 ---
 
-## 🇬🇧 English
+## 📖 About
 
-### 🎯 Overview
-*MIHAN is the very first web project created by Erfan Ahmadi after learning basic HTML and CSS.  
-This project marks the starting point of his front-end development journey — a simple, static website made to understand structure, layout, and styling concepts.
+This is where my journey into front-end development actually began. MIHAN was my very first web project, built right after learning the basics of HTML and CSS — and it was also the first exam/assignment given to me by Vidance, the company that provided my training videos.
 
-It’s not responsive or feature-heavy — but it represents the foundation of everything that came after. 💪
+It's not responsive, and it doesn't have any fancy features — just a simple static page. But it represents the starting point of everything I've built since.
 
-### 🧩 Features
-- Fully static design built with HTML + CSS
-- Includes images, banners, and simple page layout
+## ✨ Features
+
+- Fully static page built with plain HTML + CSS
+- Images, banners, and a simple page layout
 - Organized folder structure
-- No frameworks or JavaScript
-- Basic typography and colors
+- No frameworks or JavaScript — just the fundamentals
 
-### ⚙️ How to Run
-Just open the main HTML file in your browser:
+## 🚀 Getting Started
 
-# Clone repository
+### Usage
+
+Just open `index.html` in your browser — no installation needed.
+
+```bash
 git clone https://github.com/er4Nxz/MIHAN__-my-first-project-.git
-cd MIHAN__-my-first-project--main
+cd MIHAN__-my-first-project-
+```
 
-# Open main file
-open index.html
+## 📁 Project Structure
 
-### 🧠 Technologies Used
-- HTML5 for structure  
-- CSS3 for styling  
+```
+MIHAN/
+├── index.html
+└── public/
+    ├── css/
+    │   └── css.css
+    └── img/
+        ├── logo.png
+        ├── prime.jpg
+        ├── telegram.png
+        ├── Instagram.png
+        ├── Facebook.png
+        └── ...
+```
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
 - Local images and static assets
 
-### 📁 Project Structure
+## 💡 What I Learned
 
-MIHAN/
-├── index.html
-└── public/
-    ├── css/
-    │   └── css.css
-    └── img/
-        ├── logo.png
-        ├── prime.jpg
-        ├── telegram.png
-        ├── Instagram.png
-        ├── Facebook.png
-        └── ...
+- Writing basic HTML structure for the first time
+- Simple page layout and styling with CSS
+- Organizing static files and assets
+- Understanding, from scratch, how a front-end project comes together
 
-### 💡 Lessons Learned
-- Writing semantic HTML structure  
-- Basic layout design with CSS  
-- Organizing static files and assets  
-- Understanding how front-end projects are built from scratch
+## 📄 License
 
-### 🧾 License
-This project is licensed under the MIT License.  
-Free for personal and educational use.
+This project is licensed under the [MIT License](LICENSE) — free for personal and educational use.
+
+---
+---
+
+<a name="فارسی"></a>
+## فارسی
+
+**[English](#mihan--my-first-project)** | فارسی
 
 ---
 
-## 🇮🇷 فارسی
+## 📖 درباره پروژه
 
-### 🎯 معرفی پروژه
-MIHAN اولین پروژه‌ی وبی است که توسط عرفان احمدی بعد از یادگیری مقدماتی HTML و CSS ساخته شده است.  
-این پروژه نقطه‌ی شروع مسیر یادگیری طراحی وب بوده و برای تمرین ساختاردهی، چیدمان و استایل‌دهی اولیه ساخته شده است.
+اینجا واقعاً جایی بود که مسیر یادگیری فرانت‌اندم شروع شد. MIHAN اولین پروژه‌ی وبی من بود، درست بعد از یادگیری مقدماتی HTML و CSS ساخته شد — و همچنین اولین آزمون/تکلیفی بود که شرکت ویدانس (همون شرکتی که فیلم‌های آموزشی رو بهم می‌داد) بهم داد.
 
-هرچند پروژه ریسپانسیو نیست و امکانات پیچیده‌ای ندارد، اما پایه و اساس رشد بعدی او در برنامه‌نویسی فرانت‌اند است. 💪
+نه ریسپانسیوه، نه ویژگی خاصی داره — فقط یه صفحه‌ی استاتیک ساده‌ست. ولی نقطه‌ی شروع همه‌چیزیه که بعدش ساختم.
 
-### 🧩 ویژگی‌ها
-- طراحی کاملاً استاتیک با HTML + CSS
-- استفاده از تصاویر و بنرهای گرافیکی
+## ✨ ویژگی‌ها
+
+- صفحه‌ی کاملاً استاتیک با HTML و CSS خالص
+- تصاویر، بنر و یه چیدمان ساده
 - ساختار پوشه‌ای منظم
-- بدون فریم‌ورک یا جاوااسکریپت
-- تمرین مفاهیم اولیه طراحی وب
+- بدون فریم‌ورک یا جاوااسکریپت — فقط اصول پایه
 
-### ⚙️ نحوه اجرا
-فقط کافی است فایل `index.html` را در مرورگر باز کنید.
+## 🚀 شروع سریع
 
+### اجرا
+
+فقط کافیه `index.html` رو توی مرورگر باز کنی — نیازی به نصب چیزی نیست.
+
+```bash
 git clone https://github.com/er4Nxz/MIHAN__-my-first-project-.git
-cd MIHAN__-my-first-project--main
-open index.html
+cd MIHAN__-my-first-project-
+```
 
-### 🧠 تکنولوژی‌های استفاده‌شده
-- HTML5 برای ساختار صفحه  
-- CSS3 برای استایل‌دهی  
-- تصاویر محلی برای تزئین و محتوا
+## 📁 ساختار پروژه
 
-### 📁 ساختار پروژه
-
+```
 MIHAN/
 ├── index.html
 └── public/
@@ -104,16 +117,21 @@ MIHAN/
         ├── Instagram.png
         ├── Facebook.png
         └── ...
+```
 
-### 💡 نکات و تجربیات
-- یادگیری ساختاردهی صفحات HTML  
-- تمرین طراحی ساده با CSS  
-- آشنایی با نحوه سازماندهی فایل‌ها  
-- شروع مسیر یادگیری طراحی وب از پایه
+## ⚙️ تکنولوژی‌های استفاده‌شده
 
-### 🧾 لایسنس
-این پروژه تحت مجوز MIT License منتشر شده و برای استفاده شخصی یا آموزشی آزاد است.
+- HTML5
+- CSS3
+- تصاویر محلی و فایل‌های استاتیک
 
----
+## 💡 نکات و تجربیات یادگرفته‌شده
 
-Developed with ❤️ by Erfan Ahmadi*
+- نوشتن ساختار پایه‌ی HTML برای اولین بار
+- چیدمان و استایل‌دهی ساده با CSS
+- سازماندهی فایل‌های استاتیک و تصاویر
+- درک از صفر اینکه یه پروژه‌ی فرانت‌اند چطوری کنار هم قرار می‌گیره
+
+## 📄 لایسنس
+
+این پروژه تحت لایسنس [MIT](LICENSE) منتشر شده — برای استفاده شخصی و آموزشی آزاده.
